@@ -1,0 +1,5 @@
+-I/home/user/ws/src/open_manipulator/open_manipulator_gui
+-I/home/user/ws/build/open_manipulator_gui
+-o
+/home/user/ws/build/open_manipulator_gui/include/open_manipulator_x_gui/moc_qnode.cpp
+/home/user/ws/src/open_manipulator/open_manipulator_gui/include/open_manipulator_x_gui/qnode.hpp

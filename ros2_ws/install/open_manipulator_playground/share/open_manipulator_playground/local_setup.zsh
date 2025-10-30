@@ -1,0 +1,1 @@
+/home/user/ws/build/open_manipulator_playground/ament_cmake_environment_hooks/local_setup.zsh

@@ -1,0 +1,68 @@
+[0.014s] Invoking command in '/home/user/ws/build/open_manipulator_moveit_config': CMAKE_PREFIX_PATH=/home/user/ws/install/open_manipulator_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/home/user/ws/install/open_manipulator:/home/user/ws/install/open_manipulator_playground:/home/user/ws/install/open_manipulator_moveit_config:/home/user/ws/install/open_manipulator_gui:/home/user/ws/install/open_manipulator_collision:/home/user/ws/install/om_spring_actuator_controller:/home/user/ws/install/om_joint_trajectory_command_broadcaster:/home/user/ws/install/om_gravity_compensation_controller:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/user/ws/install/open_manipulator_teleop:/home/user/ws/install/open_manipulator_bringup:/opt/ros/jazzy /usr/bin/cmake /home/user/ws/src/open_manipulator/open_manipulator_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/user/ws/install/open_manipulator_moveit_config
+[0.068s] -- The C compiler identification is GNU 13.3.0
+[0.126s] -- The CXX compiler identification is GNU 13.3.0
+[0.142s] -- Detecting C compiler ABI info
+[0.229s] -- Detecting C compiler ABI info - done
+[0.242s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.242s] -- Detecting C compile features
+[0.243s] -- Detecting C compile features - done
+[0.252s] -- Detecting CXX compiler ABI info
+[0.348s] -- Detecting CXX compiler ABI info - done
+[0.359s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.359s] -- Detecting CXX compile features
+[0.359s] -- Detecting CXX compile features - done
+[0.364s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.518s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.593s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.746s] -- Configuring done (0.7s)
+[0.749s] -- Generating done (0.0s)
+[0.751s] -- Build files have been written to: /home/user/ws/build/open_manipulator_moveit_config
+[0.755s] Invoked command in '/home/user/ws/build/open_manipulator_moveit_config' returned '0': CMAKE_PREFIX_PATH=/home/user/ws/install/open_manipulator_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/home/user/ws/install/open_manipulator:/home/user/ws/install/open_manipulator_playground:/home/user/ws/install/open_manipulator_moveit_config:/home/user/ws/install/open_manipulator_gui:/home/user/ws/install/open_manipulator_collision:/home/user/ws/install/om_spring_actuator_controller:/home/user/ws/install/om_joint_trajectory_command_broadcaster:/home/user/ws/install/om_gravity_compensation_controller:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/user/ws/install/open_manipulator_teleop:/home/user/ws/install/open_manipulator_bringup:/opt/ros/jazzy /usr/bin/cmake /home/user/ws/src/open_manipulator/open_manipulator_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/user/ws/install/open_manipulator_moveit_config
+[0.756s] Invoking command in '/home/user/ws/build/open_manipulator_moveit_config': CMAKE_PREFIX_PATH=/home/user/ws/install/open_manipulator_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/home/user/ws/install/open_manipulator:/home/user/ws/install/open_manipulator_playground:/home/user/ws/install/open_manipulator_moveit_config:/home/user/ws/install/open_manipulator_gui:/home/user/ws/install/open_manipulator_collision:/home/user/ws/install/om_spring_actuator_controller:/home/user/ws/install/om_joint_trajectory_command_broadcaster:/home/user/ws/install/om_gravity_compensation_controller:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/user/ws/install/open_manipulator_teleop:/home/user/ws/install/open_manipulator_bringup:/opt/ros/jazzy /usr/bin/cmake --build /home/user/ws/build/open_manipulator_moveit_config -- -j4 -l4
+[0.792s] Invoked command in '/home/user/ws/build/open_manipulator_moveit_config' returned '0': CMAKE_PREFIX_PATH=/home/user/ws/install/open_manipulator_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/home/user/ws/install/open_manipulator:/home/user/ws/install/open_manipulator_playground:/home/user/ws/install/open_manipulator_moveit_config:/home/user/ws/install/open_manipulator_gui:/home/user/ws/install/open_manipulator_collision:/home/user/ws/install/om_spring_actuator_controller:/home/user/ws/install/om_joint_trajectory_command_broadcaster:/home/user/ws/install/om_gravity_compensation_controller:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/user/ws/install/open_manipulator_teleop:/home/user/ws/install/open_manipulator_bringup:/opt/ros/jazzy /usr/bin/cmake --build /home/user/ws/build/open_manipulator_moveit_config -- -j4 -l4
+[0.802s] Invoking command in '/home/user/ws/build/open_manipulator_moveit_config': CMAKE_PREFIX_PATH=/home/user/ws/install/open_manipulator_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/home/user/ws/install/open_manipulator:/home/user/ws/install/open_manipulator_playground:/home/user/ws/install/open_manipulator_moveit_config:/home/user/ws/install/open_manipulator_gui:/home/user/ws/install/open_manipulator_collision:/home/user/ws/install/om_spring_actuator_controller:/home/user/ws/install/om_joint_trajectory_command_broadcaster:/home/user/ws/install/om_gravity_compensation_controller:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/user/ws/install/open_manipulator_teleop:/home/user/ws/install/open_manipulator_bringup:/opt/ros/jazzy /usr/bin/cmake --install /home/user/ws/build/open_manipulator_moveit_config
+[0.809s] -- Install configuration: ""
+[0.810s] -- Execute custom install script
+[0.810s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/launch/omx_f_moveit.launch.py
+[0.820s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/launch/omy_3m_moveit.launch.py
+[0.828s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/launch/omy_f3m_moveit.launch.py
+[0.836s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/launch/open_manipulator_x_moveit.launch.py
+[0.844s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/chomp_planning.yaml
+[0.854s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/joint_limits.yaml
+[0.862s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/kinematics.yaml
+[0.870s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/moveit.rviz
+[0.880s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/moveit_controllers.yaml
+[0.888s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/ompl_planning.yaml
+[0.900s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/omx_f/joint_limits.yaml
+[0.908s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/omx_f/kinematics.yaml
+[0.917s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/omx_f/moveit_controllers.yaml
+[0.925s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/omx_f/omx_f.srdf
+[0.934s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/omy_3m/joint_limits.yaml
+[0.943s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/omy_3m/moveit_controllers.yaml
+[0.953s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/omy_3m/omy_3m.srdf
+[0.960s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/omy_f3m/joint_limits.yaml
+[0.968s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/omy_f3m/moveit_controllers.yaml
+[0.976s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/omy_f3m/omy_f3m.srdf
+[0.984s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/open_manipulator_x.srdf
+[0.992s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/open_manipulator_x/joint_limits.yaml
+[1.000s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/open_manipulator_x/kinematics.yaml
+[1.008s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/open_manipulator_x/moveit_controllers.yaml
+[1.016s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/open_manipulator_x/open_manipulator_x.srdf
+[1.024s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/pilz_cartesian_limits.yaml
+[1.035s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/config/pilz_industrial_motion_planner_planning.yaml
+[1.043s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/ament_index/resource_index/package_run_dependencies/open_manipulator_moveit_config
+[1.051s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/ament_index/resource_index/parent_prefix_path/open_manipulator_moveit_config
+[1.059s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/environment/ament_prefix_path.sh
+[1.067s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/environment/ament_prefix_path.dsv
+[1.075s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/environment/path.sh
+[1.083s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/environment/path.dsv
+[1.091s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/local_setup.bash
+[1.099s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/local_setup.sh
+[1.107s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/local_setup.zsh
+[1.115s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/local_setup.dsv
+[1.125s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/package.dsv
+[1.133s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/ament_index/resource_index/packages/open_manipulator_moveit_config
+[1.141s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/cmake/open_manipulator_moveit_configConfig.cmake
+[1.149s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/cmake/open_manipulator_moveit_configConfig-version.cmake
+[1.157s] -- Symlinking: /home/user/ws/install/open_manipulator_moveit_config/share/open_manipulator_moveit_config/package.xml
+[1.166s] Invoked command in '/home/user/ws/build/open_manipulator_moveit_config' returned '0': CMAKE_PREFIX_PATH=/home/user/ws/install/open_manipulator_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/home/user/ws/install/open_manipulator:/home/user/ws/install/open_manipulator_playground:/home/user/ws/install/open_manipulator_moveit_config:/home/user/ws/install/open_manipulator_gui:/home/user/ws/install/open_manipulator_collision:/home/user/ws/install/om_spring_actuator_controller:/home/user/ws/install/om_joint_trajectory_command_broadcaster:/home/user/ws/install/om_gravity_compensation_controller:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/home/user/ws/install/open_manipulator_teleop:/home/user/ws/install/open_manipulator_bringup:/opt/ros/jazzy /usr/bin/cmake --install /home/user/ws/build/open_manipulator_moveit_config

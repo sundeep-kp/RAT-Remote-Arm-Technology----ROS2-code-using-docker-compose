@@ -1,0 +1,26 @@
+version: "3.8"
+
+services:
+  ros2:
+    container_name: ros2_dev
+    image: osrf/ros:jazzy-desktop-full
+    build: .
+    
+    stdin_open: true
+    tty: true
+
+    volumes:
+      # Mount 1: Compiled workspace
+      - ./ros2_ws:/home/user/ws
+      # Mount 2: Source folder for active dev
+      - ./open_manipulator:/home/user/ws/src/open_manipulator
+      # GUI Forwarding
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+
+    environment:
+      - DISPLAY=${DISPLAY}
+      - QT_X11_NO_MITSHM=1
+
+    network_mode: "host"
+    user: root
+

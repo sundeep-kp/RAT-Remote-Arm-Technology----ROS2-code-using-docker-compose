@@ -1,0 +1,1 @@
+/home/user/ws/src/open_manipulator/open_manipulator_bringup/launch/omx_f.launch.py

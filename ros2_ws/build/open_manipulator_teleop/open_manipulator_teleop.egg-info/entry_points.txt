@@ -1,0 +1,4 @@
+[console_scripts]
+omy_3m_teleop = open_manipulator_teleop.omy_3m_teleop:main
+omy_f3m_teleop = open_manipulator_teleop.omy_f3m_teleop:main
+open_manipulator_x_teleop = open_manipulator_teleop.open_manipulator_x_teleop:main

@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-328aaa7d0d00151e8e11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "open_manipulator_gui",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "copy_ui_headers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-copy_ui_headers-f603ae99c998dda53da3.json",
+					"name" : "copy_ui_headers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "omy_3m_gui_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-omy_3m_gui_node-504703aa06b38868382e.json",
+					"name" : "omy_3m_gui_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "omy_3m_gui_node_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-omy_3m_gui_node_autogen-c6922ea72ae75dc5fcd3.json",
+					"name" : "omy_3m_gui_node_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "omy_3m_gui_node_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-omy_3m_gui_node_autogen_timestamp_deps-fbc673a69460faab716f.json",
+					"name" : "omy_3m_gui_node_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "omy_f3m_gui_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-omy_f3m_gui_node-2afa99ee8f97edbeb880.json",
+					"name" : "omy_f3m_gui_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "omy_f3m_gui_node_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-omy_f3m_gui_node_autogen-8fadc9430ae8f2c688dc.json",
+					"name" : "omy_f3m_gui_node_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "omy_f3m_gui_node_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-omy_f3m_gui_node_autogen_timestamp_deps-455bbe3d9b6620cc70ac.json",
+					"name" : "omy_f3m_gui_node_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "open_manipulator_gui_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-open_manipulator_gui_uninstall-11d8514aae6693aa55d5.json",
+					"name" : "open_manipulator_gui_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "open_manipulator_x_gui_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-open_manipulator_x_gui_node-0a89aa9b0d65a9f385f0.json",
+					"name" : "open_manipulator_x_gui_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "open_manipulator_x_gui_node_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-open_manipulator_x_gui_node_autogen-49da75f9d606b9dd43bf.json",
+					"name" : "open_manipulator_x_gui_node_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "open_manipulator_x_gui_node_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-open_manipulator_x_gui_node_autogen_timestamp_deps-4a76a943659ca069a704.json",
+					"name" : "open_manipulator_x_gui_node_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-7f6d6ca37d56f62359f5.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/ws/build/open_manipulator_gui",
+		"source" : "/home/user/ws/src/open_manipulator/open_manipulator_gui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

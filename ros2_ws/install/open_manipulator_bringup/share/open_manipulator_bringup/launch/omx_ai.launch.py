@@ -1,0 +1,1 @@
+/home/user/ws/build/open_manipulator_bringup/launch/omx_ai.launch.py
