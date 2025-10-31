@@ -58,11 +58,14 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-a
 
 # 4. Update apt and install all missing system dependencies via rosdep
 apt update
+rosdep update
 rosdep install --from-paths src --ignore-src -r -y
 sudo apt install ros-jazzy-moveit-configs-utils   
 apt install ros-jazzy-moveit -y  
 apt install -y ros-jazzy-hardware-interface ros-jazzy-joint-state-broadcaster ros-jazzy-joint-trajectory-controller
-
+sudo apt install ros-${ROS_DISTRO}-backward-ros -y
+  
+(Always try to get rosdep to get to work and only then turn to apt if nothing works out)
 
 4. Build the Workspace
 
@@ -179,6 +182,15 @@ Note: Since you are using a workspace directory, you likely already have a -v mo
 
 Step 3: Relaunch the Full System (Action Inside the Container)
 Once you have stopped your current container and launched a new one with the correct display forwarding (Steps 1 & 2), the GUI applications should no longer crash.
+
+
+
+[0.316s] ERROR:colcon:colcon build: Duplicate package names not supported: - open_manipulator_moveit_config: - src/open_manipulator/open_manipulator_moveit_config - src/open_manipulator_controls/open_manipulator_moveit_config
+
+fix: mv /home/user/ws/src/open_manipulator_controls/open_manipulator_moveit_config /home/user/
+
+
+
 
 We will now run the robust MoveIt launch file, assuming the display issue is fixed, and Rviz2 should appear:
 
